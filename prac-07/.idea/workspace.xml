@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../prac-08" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -43,10 +43,24 @@
       <option name="presentableId" value="Default" />
       <updated>1630988442799</updated>
       <workItem from="1630988444007" duration="1087000" />
+      <workItem from="1630989568959" duration="922000" />
+      <workItem from="1631867681471" duration="50000" />
     </task>
+    <task id="LOCAL-00001" summary="7">
+      <created>1630989855617</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630989855617</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="7" />
+    <option name="LAST_COMMIT_MESSAGE" value="7" />
   </component>
 </project>
